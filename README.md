@@ -42,15 +42,4 @@ DashBoard.ipynb: Notebook com toda a análise exploratória realizada em Python.
 
 Dashboard no Google Data Studio: [https://lookerstudio.google.com/s/stTv9yxMNlo]
 
-📌 Como Utilizar
-Clone o repositório:
-
-bash
-Copiar
-Editar
-git clone https://github.com/leonardo-felix-31/DashBoard
-Instale as dependências (ex: via pip install -r requirements.txt).
-
-Execute o notebook DashBoard.ipynb para ver a análise completa.
-
-Acesse o dashboard pelo link acima para visualizar os dados de forma interativa.
+✨ Execute o notebook DashBoard.ipynb para ver a análise completa.
