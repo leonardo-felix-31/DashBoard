@@ -40,7 +40,7 @@ O dashboard interativo facilita a compreensão das informações e está dispon�
 📎 Arquivos do Projeto
 DashBoard.ipynb: Notebook com toda a análise exploratória realizada em Python.
 
-Dashboard no Google Data Studio: [Inserir link do dashboard aqui]
+Dashboard no Google Data Studio: [https://lookerstudio.google.com/s/stTv9yxMNlo]
 
 📌 Como Utilizar
 Clone o repositório:
