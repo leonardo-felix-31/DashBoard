@@ -48,7 +48,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/leonardo-felix-31/DashBoard
 Instale as dependências (ex: via pip install -r requirements.txt).
 
 Execute o notebook DashBoard.ipynb para ver a análise completa.
